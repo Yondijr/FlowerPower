@@ -89,7 +89,7 @@ six==1.15.0
 sk-video==1.1.10
 soupsieve==2.0.1
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==2.5.3
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.3
